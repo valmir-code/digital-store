@@ -1,0 +1,38 @@
+.filter-group {
+  margin-bottom: 24px;
+}
+
+.filter-group-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--dark-gray-2);
+  margin-bottom: 14px;
+  letter-spacing: 0.75px;
+}
+
+.filter-group-options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.filter-group-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.filter-group-input {
+  width: 22px;
+  height: 22px;
+  accent-color: var(--primary);
+  cursor: pointer;
+}
+
+.filter-group-label {
+  font-size: 14px;
+  color: var(--dark-gray-2);
+  line-height: 22px;
+  user-select: none;
+}
