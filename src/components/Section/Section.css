@@ -1,0 +1,36 @@
+.section {
+  margin: 48px 0;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.section-header-center {
+  justify-content: center;
+}
+
+.section-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--dark-gray-2);
+  letter-spacing: 0.75px;
+}
+
+.section-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--primary);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.section-link:hover {
+  opacity: 0.8;
+  transform: translateX(3px);
+}
