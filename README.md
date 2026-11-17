@@ -1,6 +1,6 @@
 # Projeto Digital Store - Front-end
 
-Projeto final desenvolvido durante o curso de Front-end da Digital College.
+Projeto final desenvolvido durante o curso de Front-end da Geração tech
 
 Aluno: Valmir Patricio de Medeiros  
 
